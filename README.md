@@ -82,5 +82,5 @@ Contributions are welcome! If you'd like to improve this project, feel free to f
 
 
 ### **License**
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/stephenombuya/SpreadsheetApplication/blob/main/LICENSE) file for details.
+This project is licensed under the Apache Commons License - see the [LICENSE](https://github.com/stephenombuya/SpreadsheetApplication/blob/main/LICENSE) file for details.
 
